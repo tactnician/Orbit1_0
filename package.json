@@ -1,0 +1,21 @@
+{
+  "name": "Orbit1_0",
+  "version": "1.0.0",
+  "description": "first orbit schema experiment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "author": "Tactnician",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ipfs": "^0.34.4",
+    "node": "^11.12.0",
+    "orbit-db": "^0.19.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
